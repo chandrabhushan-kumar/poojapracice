@@ -1,0 +1,62 @@
+There are three type of styles
+
+1.inline css -body
+2.external css -seperate file with .css extension name
+3.internal css - along with html
+
+ctrl+shift+i ==for
+
+for set image (image tag is self closing tag)
+thre are two attributes
+
+src =source
+alt=""
+syntax 
+<img src="link" alt="image"></img>
+
+anchar tag 
+
+syntax:
+href=hyper reference
+target="_blank" = for open a page in new tabs
+
+<a href="path" target="_blank">abc </a>
+
+table 
+
+ <table>
+        <thead>
+            <tr>
+                <td>sr no</td>
+                <td>Employee name</td>
+                <td>Mobile number</td>
+                <td>Email id </td>
+                <td>sr no</td>
+                <td>Employee name</td>
+                <td>Mobile number</td>
+                <td>Email id </td>
+            </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>pooja</td>
+                <td>8970509090</td>
+                <td>pooja@gmail.com</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>pooja</td>
+                <td>8970509090</td>
+                <td>pooja@gmail.com</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>pooja</td>
+                <td>8970509090</td>
+                <td>pooja@gmail.com</td>
+              </tr>
+
+        </tbody>
+    </table>
