@@ -60,3 +60,51 @@ table
 
         </tbody>
     </table>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+            table, th, td {      // internal css
+    border:1px solid black;
+    }
+    </style>
+
+Neee to learn
+
+    table 
+    table size or table style
+
+
+    There are three types of list
+
+    1. order list (ol) 
+    li = list item
+
+    syntax : 
+
+    <ol>
+        <li>A</li>
+        <li>B</li>
+        <li>C</li>
+        <li>D</li>
+    </ol>
+    2. unorder list (ul)
+    syntax : 
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+      </ul>
+    3. description list (dl)
+
+    syntax 
+
+  
+
+    <dl>
+        <dt>Coffee</dt>
+        <dd>- black hot drink</dd>
+        <dt>Milk</dt>
+        <dd>- white cold drink</dd>
+      </dl>
